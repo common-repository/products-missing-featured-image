@@ -1,0 +1,9 @@
+.tools_page_missing-featured-image .wrap table thead tr th:nth-child(1) {
+    width: 50px;
+}
+
+.tools_page_missing-featured-image .wrap .no-missing-featured-image {
+    font-weight: 500;
+    font-size: 1.3em;
+    margin-top: 20px;
+}
